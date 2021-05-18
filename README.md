@@ -1,5 +1,5 @@
 # What is Authapp?
-is a simple current example of how Auth0 works with Angular.
+Is a simple current example of how Auth0 works with Angular.
 
 ## Authapp
 
